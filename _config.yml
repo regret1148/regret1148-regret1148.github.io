@@ -109,7 +109,7 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/regret1148/regret1148.github.io
+  github: https://github.com/regret1148/regret1148.github.io
   branch: main
 
 #markdonw
