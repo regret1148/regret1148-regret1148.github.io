@@ -1,3 +1,0 @@
-#  BlogTest
-
- testing
