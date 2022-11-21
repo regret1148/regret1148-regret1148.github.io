@@ -1,0 +1,13 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: name
+      link: https://akarin.dev
+      avatar: https://avatars0.githubusercontent.com/u/47057319
+      descr: testing
+    2:
+      name: name
+      link: https://railgun.icu/
+      avatar: https://avatars.githubusercontent.com/u/52127603?s=160
+      descr: testing
