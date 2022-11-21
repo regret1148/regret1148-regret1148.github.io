@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Victor</title>
+    <link>https://regret1148.github.io/</link>
+    
+    <atom:link href="https://regret1148.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Mon, 21 Nov 2022 06:59:38 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://regret1148.github.io/article/8679ce28.html</link>
+      <guid>https://regret1148.github.io/article/8679ce28.html</guid>
+      <pubDate>Fri, 18 Feb 2022 13:53:36 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://regret1148.github.io/categories/%E5%AE%89%E5%85%A8/">安全</category>
+      
+      
+      
+      <comments>https://regret1148.github.io/article/8679ce28.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
