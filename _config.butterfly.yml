@@ -80,18 +80,18 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/faviconLogo.png
+favicon: /img/Onion.jpg
 
 # Avatar (頭像)
 avatar:
-  img: /img/portrait.jpeg
+  img: /img/Yuffie.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: /img/main.webp
+index_img: /img/Grace.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: /img/default.webp
@@ -602,9 +602,9 @@ hr_icon:
 subtitle:
   enable: true
   # Typewriter Effect (打字效果)
-  effect: true
+  effect: false
   # loop (循環打字)
-  loop: true
+  loop: false
   # source 調用第三方服務
   # source: false 關閉調用
   # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
@@ -613,8 +613,8 @@ subtitle:
   # subtitle 會先顯示 source , 再顯示 sub 的內容
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
-#  sub:
-#    - 没有最强&#44;只有更强
+  sub:
+    - 每年的十一月到二月是我的灵感爆发期
 #    - Web安全是理想&#44;开发是生活
 
 # Loading Animation (加載動畫)
@@ -639,7 +639,7 @@ aside:
       link: https://github.com/regret1148/
   card_announcement:
     enable: true
-    content: 分享点自己的点滴记录,欢迎与我交流</br>我的邮箱是547558204@qq.com
+    content: 经常摸鱼的Web手,欢迎与我交流</br>我的邮箱是547558204@qq.com
   card_recent_post:
     enable: false
     limit: 3 # if set 0 will show all
@@ -679,7 +679,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 2/17/2022 00:00:00
+  publish_date: 11/22/2022 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
@@ -931,9 +931,9 @@ CDN:
 # 友情链接
 Flink:
   headline: 友情链接
-  info_headline: victor的博客
+  info_headline: Victor的博客
   name: Blog 名字： regret
   address: Blog 地址： https://regret1148.github.io
-#  avatar: Blog 头像：
+  avatar: Blog 头像： /img/Yuffie.jpg
 #  info: Blog 简介： 
   comment: 如果需要交换友链,请留言
